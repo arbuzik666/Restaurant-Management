@@ -8,9 +8,9 @@ python-dateutil==2.9.0
 SQLAlchemy==2.0.29
 
 2. В случае их отсутствия использовать команду в терминале
-1. cd project (Если находишься не в проекте)
-2. pip install -r requirements.txt
+cd project (Если находишься не в проекте)
+pip install -r requirements.txt
 
 3. Запуск приложения:
-1. cd project (Если находишься не в проекте)
-2. python app.py
+cd project (Если находишься не в проекте)
+python app.py
